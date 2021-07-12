@@ -11,7 +11,7 @@ janela.maximize()
 p.sleep(5)
 #Logando ambiente
 p.click(-386, 270, duration=0.25)
-p.write('380.smega')
+p.write(#usuario)
 p.sleep(2)
 p.hotkey('tab')
 p.write(#senha)
